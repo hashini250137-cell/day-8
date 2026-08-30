@@ -1,0 +1,4 @@
+h=input().strip()
+m=input().strip()
+s=input().strip()
+print("%s:%s:%s"%(h,m,s))
